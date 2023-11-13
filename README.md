@@ -4,7 +4,7 @@
 
 <p>This is my first html project for TOP.</p>
 
-<p>This project is about creating a <strong>basic website</strong> with recipes. I will practice here just the basic stuffs about html, like:
+<p>This project is about creating a <strong>basic website</strong> with <strong><em>recipes</em></strong>. I will practice here just the basic stuffs about html, like:
 <ul>
     <li> basic text elements (headings, paragraphs, bold and italic text, etc.);</li>
     <li> working with lists;</li>
