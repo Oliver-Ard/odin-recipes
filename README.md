@@ -8,7 +8,7 @@
 <ul>
     <li> basic text elements (headings, paragraphs, bold and italic text, etc.);</li>
     <li> working with lists;</li>
-    <li> using links and images;</li>
+    <li> using links and images.</li>
 </ul></p>
 
 <p>I hope it will went well and I can revisit the website in the future to see the progress.</p>
