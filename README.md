@@ -1,6 +1,6 @@
 # odin-recipes
 
-<h2>TOP First project!</h2>
+<h2>🇮🇹Italian recipes for Odin🇮🇹</h2>
 
 <p>This is my first html project for TOP.</p>
 
