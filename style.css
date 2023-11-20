@@ -1,7 +1,10 @@
-.body {
+body {
   background-color: #a93226;
   font-family: Arial, Helvetica, sans-serif;
   color: white;
+  margin: auto;
+  max-width: 1000px;
+  padding: 0px 50px 50px;
 }
 
 img {
@@ -10,60 +13,65 @@ img {
   border: 2px solid white;
 }
 
-.center {
-  text-align: center;
-}
-
 .title,
 .description,
-.link,
 .small-desc,
-.recipes {
+.recipes,
+.center,
+.homepage {
   text-align: center;
   color: white;
 }
 
+.small-desc {
+  text-align: left;
+  margin: 50px 0 0 0;
+}
+
 .title {
-  font-size: 40px;
+  font-size: 50px;
   text-decoration: underline;
 }
 
-.description {
-  font-size: 25px;
+.description,
+.recipes,
+.homepage {
+  font-size: 30px;
   font-weight: bold;
 }
 
 .recipes {
-  font-weight: bold;
+  font-size: 22px;
 }
 
 .bullets {
   list-style-type: none;
 }
 
-.link {
-  text-decoration: none;
-  color: white;
-  text-align: center;
+.ingredients ul li {
+  margin: 5px;
 }
 
-.steps {
+.steps ol li {
   line-height: 1.2;
+  margin: 10px;
 }
 
 .homepage {
-  text-align: center;
-  font-size: 30px;
-  font-weight: bold;
   width: 150px;
   height: 35px;
-  margin: 5px auto;
-  border: 2.5px solid white;
+  margin: 25px auto;
+  border: 2px solid white;
   padding: 10px;
+}
+
+.home-btn {
+  color: white;
+  text-decoration: none;
 }
 
 .headings {
   text-decoration: underline;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: bold;
 }
