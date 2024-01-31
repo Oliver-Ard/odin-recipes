@@ -1,14 +1,24 @@
-# odin-recipes
+# Odin Recipes
 
-<h2>🇮🇹Italian recipes for Odin🇮🇹</h2>
+**[This](https://www.theodinproject.com/lessons/foundations-recipes)** is my first project from **[The Odin Project](https://www.theodinproject.com/)**, [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations) and **my first website**.
 
-<p>This is my first html project for TOP.</p>
+This project is about creating a **basic website** with **_recipes_**. I used just the basic HTML elements, like:
 
-<p>This project is about creating a <strong>basic website</strong> with <strong><em>recipes</em></strong>. I will practice here just the basic stuffs about html, like:
-<ul>
-    <li> basic text elements (headings, paragraphs, bold and italic text, etc.);</li>
-    <li> working with lists;</li>
-    <li> using links and images.</li>
-</ul></p>
+- text elements (headings, paragraphs, `em` and `strong`, etc.)
+- `div`
+- lists
+- links
+- images
 
-<p>I hope it will went well and I can revisit the website in the future to see the progress.</p>
+---
+
+### Update:
+
+- I added a little bit of CSS:
+  - color & text styling
+  - working with basic selectors
+  - working with the box model
+
+---
+
+I hope it will go well and I can revisit the website in the future to see the progress.
